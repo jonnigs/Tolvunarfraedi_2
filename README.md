@@ -2,6 +2,11 @@
 
 Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++. Some of the Java classes use methods in classes from the [algs4 collection by princeton](https://algs4.cs.princeton.edu/code/).
 
+### 8. Verkefni
+
+1. & 2. Add delete and swap to the Java class SinglyLinkedList. The delete method deletes a node in a singly linked list by its number and connects the list so its only missing one node. The swap method swaps the position of two nodes in a Singly Linked List.
+2. C++ heapsort. The methods exch, lesss and sink needed for heapsort, finally connected together into a functioning heapsort method.
+
 ### 7. Verkefni
 
 1. Itterative implementation of the min() and max() methods for the Java class BTS.
