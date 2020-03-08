@@ -16,7 +16,7 @@ Review at the end of the semester.
 
 ### 8. Verkefni
 
-1. & 2. Add delete and swap to the Java class SinglyLinkedList. The delete method deletes a node in a singly linked list by its number and connects the list so its only missing one node. The swap method swaps the position of two nodes in a Singly Linked List.
+1. Add delete and swap to the Java class SinglyLinkedList. The delete method deletes a node in a singly linked list by its number and connects the list so its only missing one node. The swap method swaps the position of two nodes in a Singly Linked List.
 3. C++ heapsort. The methods exch, lesss and sink needed for heapsort, finally connected together into a functioning heapsort method.
 
 ### 7. Verkefni
