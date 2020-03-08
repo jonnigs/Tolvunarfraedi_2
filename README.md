@@ -2,6 +2,12 @@
 
 Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++. Some of the Java classes use methods in classes from the [algs4 collection by princeton](https://algs4.cs.princeton.edu/code/).
 
+### 7. Verkefni
+
+1. Itterative implementation of the min() and max() methods for the Java class BTS.
+2. Java class v2 that measures how long it takes to look up a integer with BinarySearchST.java and prints out a plot. I start from 50.000 and go up to 5.000.000, jumping 50.000 each iteration.
+3. C++ program BST. Binary search tree that suports the methods put and contains.
+
 ### 5. Verkefni
 
 1. Java class MoreRandom. Wrote the method getRandomDoubleArray that makes a matrix of random Doubles.
