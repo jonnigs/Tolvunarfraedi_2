@@ -1,6 +1,12 @@
-# Tolvunarfraedi_2
+# Tölvunarfræði 2
 
 Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++.
+
+### 3. Verkefni
+
+1. Finnishin the Java class Fraction. Implementing Compairable for equals method and compareTo method.
+2. Finnishing the Java class SinglyLinkedList.
+3. C++ method reverse for the class SinglyLinkedList.
 
 ### 2. Verkefni
 
