@@ -1,6 +1,12 @@
 # Tölvunarfræði 2
 
-Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++.
+Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++. Some of the Java classes use methods in classes from the [algs4 collection by princeton](https://algs4.cs.princeton.edu/code/).
+
+### 5. Verkefni
+
+1. Java class MoreRandom. Wrote the method getRandomDoubleArray that makes a matrix of random Doubles.
+2. Java class PlotRunningTimes. Plots out the time it takes to insertion sort matrices that contain 0-5000 numbers.
+3. Java class SortingCompetition. Compairs the time insertion sort takes to the time it takes to merge sort. Insertion is better for small martices but around 73 components merge sort is faster.
 
 ### 4. Verkefni
 
