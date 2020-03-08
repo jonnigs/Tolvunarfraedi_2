@@ -2,9 +2,15 @@
 
 Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++.
 
+### 4. Verkefni
+
+1. Implementation of iterable for the Java class ArrayList.
+2. Java class Hanoi that writes out all steps needed to solve the tower of Hanoi problem.
+3. C++ class stack. Made for stacks of int, uses singly linked list.
+
 ### 3. Verkefni
 
-1. Finnishin the Java class Fraction. Implementing Compairable for equals method and compareTo method.
+1. Finnishing the Java class Fraction. Implementing Compairable for equals method and compareTo method.
 2. Finnishing the Java class SinglyLinkedList.
 3. C++ method reverse for the class SinglyLinkedList.
 
