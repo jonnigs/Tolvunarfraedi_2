@@ -2,6 +2,18 @@
 
 Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++. Some of the Java classes use methods in classes from the [algs4 collection by princeton](https://algs4.cs.princeton.edu/code/).
 
+### Upprifjun
+
+Review at the end of the semester.
+
+1.  Java method reverseStack. Accepts a stack and returns a stack with the same components but in reversed order.
+2.  Java method farthestM. Accepts a bag of 2D points and integer m. The method calculates the distances from the origin and returns the m greates distances.
+3.  C++ method insertion. Insertion sort for std::vector of int.
+
+### 11. Verkefni
+
+1. Java class v1. Uses the algs4 function DijkstraSP on the graph from mEWG.txt and writes out the distance from vertex 0 to vertecies 168, 200 & 201.
+
 ### 8. Verkefni
 
 1. & 2. Add delete and swap to the Java class SinglyLinkedList. The delete method deletes a node in a singly linked list by its number and connects the list so its only missing one node. The swap method swaps the position of two nodes in a Singly Linked List.
@@ -47,11 +59,3 @@ Projects from the course Tölvunarfræði 2 (Computer science 2). The course use
 
 1. C++ method halloheimur. Classic Hello World.
 2. C++ method v2. Reads in numbers from the user and returns the sum and average.
-
-### Upprifjun
-
-Review at the end of the semester.
-
-1.  Java method reverseStack. Accepts a stack and returns a stack with the same components but in reversed order.
-2.  Java method farthestM. Accepts a bag of 2D points and integer m. The method calculates the distances from the origin and returns the m greates distances.
-3.  C++ method insertion. Insertion sort for std::vector of int.
