@@ -2,6 +2,12 @@
 
 Projects from the course Tölvunarfræði 2 (Computer science 2). The course used Java and C++.
 
+### 2. Verkefni
+
+1. C++ method vector. Reads in numbers, the method collects them into a std::vector of double and then writes out the median and variance.
+2. Finnishing the C++ class SinglyLinkedList. Added the method prepend that adds a node to the front of a list, Overoad for [] to get a node by number and a destructor for the class.
+3. Finnishing the C++ class fraction. Overload for \* to allow mulitiplication of fractions, constructor for MixedFractions and overload for << to write out MixedFractions propperly.
+
 ### 1. Verkefni
 
 1. C++ method swap. Takes in int pointers and swaps the values they point to.
